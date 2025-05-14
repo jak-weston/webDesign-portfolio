@@ -46,6 +46,6 @@ To run this project locally:
 2. Open `index.html` in your browser
 3. For development, use a local server (e.g., Live Server)
 
-## 📝 License
+## License
 
 This project is private and maintained by TKE Pi-Xi chapter.
