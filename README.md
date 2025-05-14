@@ -1,8 +1,8 @@
-# TKE UC San Diego Website Portfolio 🎓
+# TKE UC San Diego Website Portfolio
 
 A modern, responsive website for the Pi-Xi chapter of Tau Kappa Epsilon at UC San Diego. This project showcases a dynamic fraternity website with interactive features and secure member access.
 
-## 🌟 Features (WIP)
+## Features (WIP)
 
 - **Interactive Landing Page**: Custom-designed hero section with dynamic video backgrounds
 - **Responsive Navigation**: Bootstrap-powered navbar with dropdown menus
@@ -13,7 +13,7 @@ A modern, responsive website for the Pi-Xi chapter of Tau Kappa Epsilon at UC Sa
 - **Rush Information**: Dedicated rush portal with event information and signup forms
 - **Social Integration**: Instagram feed integration and social media connectivity
 
-## 🛠️ Technologies
+## Technologies
 
 - HTML5 & CSS3
 - Bootstrap 5
@@ -22,7 +22,7 @@ A modern, responsive website for the Pi-Xi chapter of Tau Kappa Epsilon at UC Sa
 - Responsive Design
 - Mobile-First Approach
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Member authentication system
 - Dynamic content management
@@ -31,14 +31,14 @@ A modern, responsive website for the Pi-Xi chapter of Tau Kappa Epsilon at UC Sa
 - Event management system
 - Media gallery with user uploads
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is fully responsive and optimized for:
 - Desktop displays
 - Tablets
 - Mobile devices
 
-## 🔧 Development
+## Development
 
 To run this project locally:
 
